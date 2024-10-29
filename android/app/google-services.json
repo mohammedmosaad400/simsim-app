@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "941615368347",
+    "project_id": "n2-8-simsim-rcbk",
+    "storage_bucket": "n2-8-simsim-rcbk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941615368347:android:e7533e5f5fa35e79be1e3e",
+        "android_client_info": {
+          "package_name": "com.maze.simsim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941615368347-t7o4g6pt1p92a2hi1khov985cav3tmtg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maze.simsim",
+            "certificate_hash": "ab2d9f447c57e994bec448588af67b5bb01d0d5f"
+          }
+        },
+        {
+          "client_id": "941615368347-me7gj1nfbf48h5d2ehplvkgvd0qou7mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_9qEltSDuQhvKUMAdHUg8RxXvm2NC0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941615368347-me7gj1nfbf48h5d2ehplvkgvd0qou7mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941615368347:android:52703cb244dd079cbe1e3e",
+        "android_client_info": {
+          "package_name": "com.robot.simsim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941615368347-4fv85oti95k4jjg020r0iirbvqk9o00r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robot.simsim",
+            "certificate_hash": "ab2d9f447c57e994bec448588af67b5bb01d0d5f"
+          }
+        },
+        {
+          "client_id": "941615368347-me7gj1nfbf48h5d2ehplvkgvd0qou7mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_9qEltSDuQhvKUMAdHUg8RxXvm2NC0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941615368347-me7gj1nfbf48h5d2ehplvkgvd0qou7mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941615368347:android:c46b38dbe490bf66be1e3e",
+        "android_client_info": {
+          "package_name": "com.street.mezochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941615368347-me7gj1nfbf48h5d2ehplvkgvd0qou7mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_9qEltSDuQhvKUMAdHUg8RxXvm2NC0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941615368347-me7gj1nfbf48h5d2ehplvkgvd0qou7mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941615368347:android:543c1644cd9f5c5abe1e3e",
+        "android_client_info": {
+          "package_name": "com.street.simsim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941615368347-pvhnpbmldbjr5st9gqd7g7qsflk42fi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.street.simsim",
+            "certificate_hash": "ab2d9f447c57e994bec448588af67b5bb01d0d5f"
+          }
+        },
+        {
+          "client_id": "941615368347-me7gj1nfbf48h5d2ehplvkgvd0qou7mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_9qEltSDuQhvKUMAdHUg8RxXvm2NC0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941615368347-me7gj1nfbf48h5d2ehplvkgvd0qou7mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7980797173218475~7961045959"
+    }
+  ],
+  "configuration_version": "1"
+}
